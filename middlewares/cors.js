@@ -1,4 +1,5 @@
 const allowedCors = ["https://kira-frontend.nomorepartiesco.ru"];
+//const allowedCors = ["http://localhost:3000"];
 
 function cors(req, res, next) {
   const { origin } = req.headers;
