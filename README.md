@@ -1,3 +1,1 @@
-# pindie-backend
-
-Крутой бэк-енд
+Мой бэкенд: https://kira-backend.nomorepartiesco.ru/
